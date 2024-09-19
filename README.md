@@ -16,20 +16,20 @@
   <a href="https://linkedin.com/in/gopal-ag" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://media.licdn.com/dms/image/v2/D4D03AQE6yrXskkESfg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722109977379?e=1732147200&v=beta&t=jTlV9y4DvdoKdsgNEPs5jAhhOUT0Kb4oyJKAmEn1rqs"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Gopal-Agarwal"
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/sharath.345" target="blank"
+  <a href="https://instagram.com/gopal__ag" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="sharath.345"
+      alt="gopal__ag"
       height="30"
       width="40"
   /></a>
-  <a href="https://twitter.com/csharath3" target="blank"
+  <a href="https://twitter.com/gopal_ag" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
