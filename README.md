@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sharath Chandra Chinnarigari</h1>
-<h3 align="center">A Computer Science Undergraduate from Thapar University</h3>
+<h1 align="center">Hi 👋, I'm Gopal Agarwal</h1>
+<h3 align="center">A Pre-Final Computer Science Undergraduate from Thapar University</h3>
 
 <img
   align="right"
@@ -8,16 +8,16 @@
   src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 />
 
-- 🌱 I’m currently learning **Devops , Blockchain** - 📫 Contact
-**csharathchandra3@gmail.com** | **cchandra_be22@thapar.edu**
+- 🌱 I’m currently learning **Devops , AI/ML** - 📫 Contact
+**gopal.ag0224@gmail.com** | **gagarwal_be22@thapar.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/csharath-chandra" target="blank"
+  <a href="https://linkedin.com/in/gopal-ag" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="csharath-chandra"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://media.licdn.com/dms/image/v2/D4D03AQE6yrXskkESfg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722109977379?e=1732147200&v=beta&t=jTlV9y4DvdoKdsgNEPs5jAhhOUT0Kb4oyJKAmEn1rqs"
+      alt="Gopal-Agarwal"
       height="30"
       width="40"
   /></a>
