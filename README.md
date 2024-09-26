@@ -37,14 +37,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://codepen.io/sharath4567" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="sharath4567"
-      height="30"
-      width="40"
-  /></a>
 </p>
 
 ###
@@ -116,14 +108,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sharathchandra345&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=gopal-ag&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sharathchandra345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gopal-ag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
     height="150"
     alt="languages graph"
   />
