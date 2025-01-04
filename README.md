@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡️ I'm Gopal Agarwal! I like Money!c ⚡️
+# ⚡️ I'm Gopal Agarwal! I like Money! ⚡️
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer;Computer+Vision+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
 
@@ -8,36 +8,40 @@
 
 </div>
 
-
-
-
 <div align="center">
 🚀 About Me
 <table>
 <tr>
 <td>
-👨‍💻 Professional Journey
-📚 Computer Science Student at Thapar University
-🎯 Focusing on Deep Learning & Computer Vision
-🌱 Building robust Backend Systems
-⚡ Always exploring new technologies
-🛠️ Core Competencies
-AI/ML: Deep Learning, Neural Networks, Computer Vision
-Backend: Django, REST APIs, System Design
-Languages: Python, JavaScript, Go, C++
-Databases: PostgreSQL, MySQL
+### 👨‍💻 Professional Journey
+- 📚 Surviving Computer Science at **Thapar University** (barely)  
+- 🔭 Obsessed with **Cyber Security**, **Computer Vision**, & **DevOps**  
+- 🛠️ Building systems that break... less often  
+- ⚡ Happiest when debugging someone else’s code (just kidding, it’s torture)
+
+### 🛠️ Core Competencies
+- **AI/ML**: Deep Learning, Neural Networks, Computer Vision
+- **Backend**: Django, REST APIs, System Design
+- **Languages**: Python, JavaScript, Go, C++
+- **Databases**: PostgreSQL, MySQL
+
 </td>
 <td>
-💡 Skills Spotlight
-Deep Learning    ███████████░░   90%
-Computer Vision  ██████████░░░   85%
-Backend Dev      ████████░░░░░   75%
-DevOps           ███████░░░░░░   65%
-🎯 Goals 2024
-📱 Build 3 Major Projects
-📚 Master MLOps Pipeline
-🌐 Contribute to Open Source
-📖 Share Knowledge through Blogs
+
+### 💡 Skills Spotlight
+
+```text
+Deep Learning    █████████░░░░   72%  
+Computer Vision  ██████████░░░   84%  
+Backend Dev      ████████░░░░░   72%  
+DevOps           ██████████░░░   86% 
+Coffee Drinking  █████████████   100% ☕ 
+```
+
+### 🎯 Goals 2024
+-	💰 Make money (Step 1: Figure out how)
+-	🏋️‍♂️ Outrun the delivery guy for once
+- 🧠 Build tech cool enough to distract people from my questionable humor
 </td>
 </tr>
 </table>
