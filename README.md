@@ -2,7 +2,7 @@
 
 # ⚡️ I'm Gopal Agarwal! I like Money! ⚡️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer;Computer+Vision+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Backend+Builder+With+Bugs;Pixel+Perfect+Visionary;CyberSec+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://i.pinimg.com/originals/ec/b4/6d/ecb46dbdc7ab6e2ba98c78aae27da954.gif" alt="Gojo GIF" width="200"/>
 
