@@ -49,6 +49,7 @@ Coffee Drinking  █████████████   100% ☕
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
