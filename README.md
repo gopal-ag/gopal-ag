@@ -9,9 +9,41 @@
 </div>
 
 
-<div align="center">
 
-## 🚀 About Me
+
+<div align="center">
+🚀 About Me
+<table>
+<tr>
+<td>
+👨‍💻 Professional Journey
+📚 Computer Science Student at Thapar University
+🎯 Focusing on Deep Learning & Computer Vision
+🌱 Building robust Backend Systems
+⚡ Always exploring new technologies
+🛠️ Core Competencies
+AI/ML: Deep Learning, Neural Networks, Computer Vision
+Backend: Django, REST APIs, System Design
+Languages: Python, JavaScript, Go, C++
+Databases: PostgreSQL, MySQL
+</td>
+<td>
+💡 Skills Spotlight
+Deep Learning    ███████████░░   90%
+Computer Vision  ██████████░░░   85%
+Backend Dev      ████████░░░░░   75%
+DevOps           ███████░░░░░░   65%
+🎯 Goals 2024
+📱 Build 3 Major Projects
+📚 Master MLOps Pipeline
+🌐 Contribute to Open Source
+📖 Share Knowledge through Blogs
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ## 🚀 About Me
 
 
 
@@ -49,7 +81,7 @@ Coffee Drinking  █████████████   100% ☕
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 <div align="center">
 
