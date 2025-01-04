@@ -34,7 +34,6 @@
 
 ### 💡 Skills in a Nutshell
 
-
 Deep Learning    █████████░░░░   78%  
 Computer Vision  ██████████░░░   84%  
 Backend Dev      ████████░░░░░   72%  
@@ -45,13 +44,6 @@ Coffee Drinking  █████████████   100% ☕
 	•	💰 Make money (Step 1: Figure out how)
 	•	🏋️‍♂️ Outrun the delivery guy for once
 	•	🧠 Build tech cool enough to distract people from my questionable humor
-
-</td>
-</tr>
-</table>
-
-</div>
-
 
 
 <div align="center">
