@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Backend+Builder+With+Bugs;Pixel+Perfect+Visionary;CyberSec+Enthusiast)](https://git.io/typing-svg)
 
-<!-- <img src="https://i.pinimg.com/originals/ec/b4/6d/ecb46dbdc7ab6e2ba98c78aae27da954.gif" alt="Gojo GIF" width="200"/> -->
-<iframe src="https://giphy.com/embed/bx8tQ1edbvZxGnNMlw" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cc0studios-alliance-ship-it-dao-bx8tQ1edbvZxGnNMlw">via GIPHY</a></p>
+<img src="https://giphy.com/embed/bx8tQ1edbvZxGnNMlw" alt="Gojo GIF" width="200"/>
+<!-- <iframe src="https://giphy.com/embed/bx8tQ1edbvZxGnNMlw" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cc0studios-alliance-ship-it-dao-bx8tQ1edbvZxGnNMlw">via GIPHY</a></p> -->
 
 </div>
 
