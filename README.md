@@ -13,6 +13,8 @@
 
 ## 🚀 About Me
 
+
+
 <table>
 <tr>
 <td>
@@ -46,6 +48,7 @@ Coffee Drinking  █████████████   100% ☕
 	•	🧠 Build tech cool enough to distract people from my questionable humor
 </td>
 </tr>
+</table>
 
 <div align="center">
 
