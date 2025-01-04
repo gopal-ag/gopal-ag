@@ -13,6 +13,7 @@
 <table>
 <tr>
 <td>
+
 ### 👨‍💻 Professional Journey
 - 📚 Surviving Computer Science at **Thapar University** (barely)  
 - 🔭 Obsessed with **Cyber Security**, **Computer Vision**, & **DevOps**  
