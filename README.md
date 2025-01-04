@@ -1,128 +1,183 @@
-<h1 align="center">Hi 👋, I'm Gopal Agarwal</h1>
-<h3 align="center">A Pre-Final Computer Science Undergraduate from Thapar University</h3>
+<div align="center">
 
-<img
-  align="right"
-  alt="coding-gif"
-  width="400"
-  src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"
-/>
+# ⚡️ I'm Gopal Agarwal! I like Money!c ⚡️
 
-- 🌱 I’m currently learning **Devops , AI/ML** - 📫 Contact
-**gopal.ag0224@gmail.com** | **gagarwal_be22@thapar.edu**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer;Computer+Vision+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/gopal-ag" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Gopal-Agarwal"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/gopal__ag" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="gopal__ag"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/gopal_ag" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="csharath3"
-      height="30"
-      width="40"
-  /></a>
+<img src="https://i.pinimg.com/originals/ec/b4/6d/ecb46dbdc7ab6e2ba98c78aae27da954.gif" alt="Gojo GIF" width="200"/>
+
+</div>
+
+
+<div align="center">
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td>
+
+### 👨‍💻 My Professional "Glow-Up"  
+- 📚 Surviving Computer Science at **Thapar University** (barely)  
+- 🔭 Obsessed with **Cyber Security**, **Computer Vision**, & **DevOps**  
+- 🛠️ Building systems that break... less often  
+- ⚡ Happiest when debugging someone else’s code (just kidding, it’s torture)
+
+### 🛠️ Core Strengths (and Weaknesses?)  
+- **AI/ML**: Turning caffeine into models that sometimes work  
+- **Backend**: Making APIs cry less  
+- **Languages**: Fluent in Python, C++, and sarcasm  
+- **Databases**: PostgreSQL, MySQL, and Excel when all else fails  
+
+</td>
+<td>
+
+### 💡 Skills in a Nutshell
+
+
+Deep Learning    █████████░░░░   78%  
+Computer Vision  ██████████░░░   84%  
+Backend Dev      ████████░░░░░   72%  
+DevOps           ██████████░░░   85%  
+Coffee Drinking  █████████████   100% ☕  
+
+### 🎯 Goals 2024
+	•	💰 Make money (Step 1: Figure out how)
+	•	🏋️‍♂️ Outrun the delivery guy for once
+	•	🧠 Build tech cool enough to distract people from my questionable humor
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- Tech Stack Table on the Left -->
+    <td style="border: none;">
+      <table align="center" style="border: none; border-collapse: collapse;">
+        <tr style="border: none;">
+          <td align="center" width="96" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+            <br>Python
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
+            <br>Django
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+            <br>JavaScript
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="65" height="65"/>
+            <br>Go
+          </td>
+        </tr>
+        <tr style="border: none;">
+          <td align="center" width="96" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+            <br>C++
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+            <br>Docker
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+            <br>MySQL
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="C" width="50" height="50"/>
+            <br>GitHub
+          </td>
+        </tr>
+        <tr style="border: none;">
+          <td align="center" width="96" style="border: none;">
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65"/>
+            <br>PyTorch
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65"/>
+            <br>TensorFlow
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="65" height="65"/>
+            <br>OpenCV
+          </td>
+          <td align="center" width="96" style="border: none;">
+            <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65"/>
+            <br>PostgreSQL
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Spacer and GIF -->
+    <td style="width: 100px; border: none;"></td>
+    <!-- Hacker GIF on the Right -->
+    <td align="center" valign="top" style="border: none;">
+      <img src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif" alt="Hacker GIF" width="250"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/gopal-ag">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=gopal-ag&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gopal-ag&theme=chartreuse_dark"/>
+</a>
 </p>
 
-###
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9NwuYEJoddRh-YGGyoQU0xJ3TqTKdf99nQ&s" height="40" alt="tf logo"  />
-  <img width="12" />
-  <img src="https://juststickers.in/wp-content/uploads/2016/05/django-badge.png" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gopal-ag&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+## 🤝 Connect with Me
+
+<a href="mailto:gagarwal_be22@thapar.edu">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/gopal-ag">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/gopal-ag">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/gopal__ag/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+
+<details>
+<summary>⚡ More About Me</summary>
+<br>
+  
+- 🔭 Currently working on: **Deep Learning Projects**
+- 🌱 Learning: **MLOps and System Design**
+- 👯 Looking to collaborate on: **AI/ML Projects**
+- 💬 Ask me about: **Python, Deep Learning, Computer Vision**
+
+  
+</details>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
-
-###
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gopal-ag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-    height="150"
-    alt="languages graph"
-  />
-</div>
-
-###
-
-![snake gif](https://github.com/Sharathchandra345/Sharathchandra345/blob/output/github-contribution-grid-snake-dark.svg)
-
-###
