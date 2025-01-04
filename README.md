@@ -45,6 +45,7 @@ Coffee Drinking  █████████████   100% ☕
 	•	🏋️‍♂️ Outrun the delivery guy for once
 	•	🧠 Build tech cool enough to distract people from my questionable humor
 
+</tr>
 
 <div align="center">
 
