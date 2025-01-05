@@ -19,9 +19,9 @@
 
 ### 👨‍💻 Professional Journey
 - 📚 Surviving CS at **Thapar University** (barely)  
-- 🔭 Obsessed with **Cyber Security**, **Computer Vision**, & **DevOps**  
 - 🛠️ Building systems that break... less often  
 - ⚡ Happiest when debugging someone else’s code (just kidding, it’s torture)
+- 💡 **Cyber Security**, **Computer Vision**, & **DevOps**  
 
 ### 🛠️ Core Competencies
 - **AI/ML**: Deep Learning, Neural Networks, Computer Vision
