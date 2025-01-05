@@ -26,7 +26,7 @@
 ### 🛠️ Core Competencies
 - **AI/ML**: Deep Learning, Neural Networks, Computer Vision
 - **Backend**: Django, REST APIs, System Design
-- **DevOps**: AWS, Nginx, Apache2, Gunicorn Certbot, Vercel
+- **DevOps**: AWS, Nginx, Apache2, Gunicorn, Vercel
 - **Languages**: Python, JavaScript, Go, C++
 - **Databases**: PostgreSQL, MySQL
 
@@ -44,7 +44,7 @@ Coffee Drinking  █████████████   100% ☕
 ```
 
 ### 🎯 Goals 2025
--	💰 Make money (Step 1: Figure out how)
+-	💰 Make money (Step 1: Figure out how) 
 -	🏋️‍♂️ Outrun the delivery guy for once
 - 🧠 Build tech cool enough to distract people from my questionable humor
 </td>
