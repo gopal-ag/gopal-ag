@@ -43,7 +43,7 @@ DevOps           ██████████░░░   86%
 Coffee Drinking  █████████████   100% ☕ 
 ```
 
-### 🎯 Goals 2024
+### 🎯 Goals 2025
 -	💰 Make money (Step 1: Figure out how)
 -	🏋️‍♂️ Outrun the delivery guy for once
 - 🧠 Build tech cool enough to distract people from my questionable humor
