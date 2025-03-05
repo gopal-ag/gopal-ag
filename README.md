@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡️ I'm Gopal Agarwal, I like Money! ⚡️
+# ⚡️ Hi, I'm Gopal! ⚡️
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Backend+Builder+With+Bugs;Break+Code+Fix+Code+Repeat;CyberSec+Enthusiast)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 <td>
 
 ### 👨‍💻 Professional Journey
-- 📚 Surviving CS at **Thapar University** (barely)  
+- 📚 CS Undergrad at **Thapar University**
 - 🛠️ Building systems that break... less often  
 - ⚡ Happiest when debugging someone else’s code (just kidding, it’s torture)
 - 💡 **Cyber Security**, **Computer Vision**, & **DevOps**  
@@ -46,7 +46,7 @@ Coffee Drinking  █████████████   100% ☕
 ### 🎯 Goals 2025
 -	💰 Make money (Step 1: Figure out how) 
 -	🏋️‍♂️ Outrun the delivery guy for once
-- 🧠 Build tech cool enough to distract people from my questionable humor
+- 🧠 Build tech cool enough to distract people from my questionable humour
 </td>
 </tr>
 </table>
