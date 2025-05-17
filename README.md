@@ -134,9 +134,7 @@ Coffee Drinking  █████████████   100% ☕
 
 ## 📊 GitHub Analytics
 
-<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=gopal-ag&theme=transparent)](https://git.io/streak-stats)
-</p>
 
 
 </div>
